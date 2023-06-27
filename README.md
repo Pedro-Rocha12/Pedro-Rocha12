@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedro-Rocha12
 - 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
